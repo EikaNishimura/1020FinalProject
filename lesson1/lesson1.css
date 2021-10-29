@@ -1,0 +1,27 @@
+header, footer {
+    color: rgba(255,0,0,0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    background-color: #FFF0F5;
+}
+
+article {
+    background-color: white;
+    padding: 2%;
+    border-radius: 9px;
+    margin: 2% 10%;}
+p{
+    font-family: Arial, serif;
+    font-variant: normal;
+    font-size: 110%;}
+h2,h3{
+    color: rgba(255,0,0,0.5);
+    font-weight: lighter;
+
+}
+
+
