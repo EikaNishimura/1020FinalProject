@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7cd5a74f-2290-48ec-9ebe-d8cbee67fd32" name="Default Changelist" comment="" />
+    <list default="true" id="7cd5a74f-2290-48ec-9ebe-d8cbee67fd32" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson3/Lesson3.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/Lesson3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson3/Page1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/Page1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson3/Page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/Page2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson3/Page3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/Page3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson3/Page4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/Page4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson3/Page5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/Page5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson3/Sources" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/Sources" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ynGzOPhHGR425yv22rgvINXlD6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1632880200976</updated>
       <workItem from="1632880202466" duration="18770000" />
-      <workItem from="1634603547731" duration="55377000" />
+      <workItem from="1634603547731" duration="56954000" />
     </task>
     <servers />
   </component>
@@ -62,6 +75,14 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="570" y="334" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1635531878292" />
+    <state x="716" y="429" key="Github.ShareDialog" timestamp="1635551963828">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="716" y="429" key="Github.ShareDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1635551963828" />
+    <state x="674" y="237" key="Github.UntrackedFilesDialog" timestamp="1635551968279">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="674" y="237" key="Github.UntrackedFilesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1635551968279" />
     <state width="600" height="428" key="javadoc.popup" timestamp="1635549220434">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
